@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}@author Elena Chestnov ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
