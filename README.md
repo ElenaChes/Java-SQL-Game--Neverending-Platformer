@@ -30,7 +30,7 @@ Level Creation:
 1. Choose a difficulty you want to create for.
 2. Choose tiles(traps) from the drop menu and adjust length to your liking.
 3. Press "Finish" when done.
-4. Name your file and provide a creator name,
+4. Name your file and provide a creator name.
 5. The level file will be exported to the levels folder and can be later shared with other users who play the same game.
 
 Options:
