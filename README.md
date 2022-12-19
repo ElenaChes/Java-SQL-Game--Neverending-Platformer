@@ -1,7 +1,7 @@
 # Java&SQL Platformer Game Using Microsoft's Access Database.
 
 A final college project written in Java and SQL.<br>
-Description: a real-time randomly generated platformer, also includes a create&load levels mechanism.
+Description: a real-time randomly generated 2D platformer, also includes a create&load levels mechanism.
 
 Note: Currently has a bug that makes the game speed dependent on the cpu, and will run too fast on good computers.
 
