@@ -3,8 +3,6 @@
 A final college project written in Java and SQL.<br>
 Description: a real-time randomly generated 2D platformer, also includes a create&load levels mechanism.
 
-Note: Currently has a bug that makes the game speed dependent on the cpu, and will run too fast on good computers.
-
 # Installation
 
 1. Requires JDK 8 and Microsoft Access 2016.
@@ -36,3 +34,7 @@ Options:
 
 1. Change resolution, difficulty, or stop music.
 2. Get an in-game rundown of the controls.
+
+# Known bugs
+
+The game speed is currently dependent on the cpu, and will run too fast on good computers.
