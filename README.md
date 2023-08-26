@@ -1,4 +1,4 @@
-# Java & SQL Game - Neverending Platformer
+# Neverending Platformer
 
 <img align="right" src="https://github.com/ElenaChes/Java-SQL-Game--Neverending-Platformer/assets/54331769/325b8847-c2ed-42c8-9ef3-4605e9d26d38">
 
