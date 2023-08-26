@@ -1,6 +1,6 @@
 # Neverending Platformer
 
-<img align="right" src="https://github.com/ElenaChes/Java-SQL-Game--Neverending-Platformer/assets/54331769/325b8847-c2ed-42c8-9ef3-4605e9d26d38">
+<img align="right" src="/Exported/res/icon.png">
 
 A final college project written in Java and SQL using Microsoft's Access Database.<br>
 Description: a real-time randomly generated 2D platformer with a create & load custom levels mechanic.
