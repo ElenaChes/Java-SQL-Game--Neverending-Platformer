@@ -5,6 +5,21 @@
 A final college project written in Java and SQL using Microsoft's Access Database.<br>
 Description: a real-time randomly generated 2D platformer with a create & load custom levels mechanic.
 
+<details>
+  <summary><h3>Content</h3></summary>
+
+- [Dependencies](#dependencies)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Random Level](#random-level)
+  - [Load Level](#load-level)
+  - [Level Creation](#level-creation)
+  - [Options](#options)
+- [Known bugs](#known-bugs)
+
+</details>
+<hr>
+
 # Dependencies
 
 1. JDK 8
@@ -15,7 +30,7 @@ Description: a real-time randomly generated 2D platformer with a create & load c
 1. Install the dependencies.
 2. Launch `Exported/NEP_1_0.jar` or compile the `NetBeans Files` folder via NetBeans IDE 8.2 or higher.
 
-Raw code is in NetBeans Files/src/main_pkg.
+Raw code is in `NetBeans Files/src/main_pkg`.
 
 # Usage
 
